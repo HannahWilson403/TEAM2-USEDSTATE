@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   const [age, setAge] = useState(19);
   const handleClick = () => setAge(age + 1)
-  const handleClick2 = () => setAge(age - 1)
+  const handleClick2 = () => setAge( age - 1 < 0 ? 0 : age - 1 )
 
   return (
     <div> 
