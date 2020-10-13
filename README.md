@@ -13,6 +13,7 @@ UseState() is a react hook that allows developers to update, handle and change t
 
 With the following snippet:
 
+```
 function App() {
   const [age, setAge] = useState(19);
   const handleClick = () => setAge(age + 1)
@@ -25,5 +26,6 @@ function App() {
       </div>
    </div>
 }
+```
 
 We can see that 
