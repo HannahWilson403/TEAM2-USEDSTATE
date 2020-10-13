@@ -28,4 +28,3 @@ function App() {
 }
 ```
 
-We can see that 
