@@ -6,7 +6,7 @@ function App() {
   const handleClick = () => setAge(age + 1)
   const handleClick2 = () => setAge( age - 1 < 0 ? 0 : age - 1 )
 
-  const [meters, setMeters] = useState(1);
+  const [meters, setMeters] = useState(0);
   const handleclick3 = () => setMeters(meters + 10)
 
   return (
