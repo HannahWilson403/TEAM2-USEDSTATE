@@ -17,6 +17,15 @@ code {
     monospace;
 }
 
+button {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  width: 100px;
+  border-radius: 3px;
+  margin-left: 10px;
+  background-color: whitesmoke;
+  font-weight: bold;
+}
+
 
 
 
