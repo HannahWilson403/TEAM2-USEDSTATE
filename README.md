@@ -2,7 +2,7 @@
 
 Describe and implement a React Hook
 
-An API for React called "Hooks" was implemented upon release that allows a developer to
+An API for React called "Hooks" was implemented upon the initial release that allows a developer to
 use state and lifecycle methods of React inside a functional component.
 Hooks improve code reuse and composition. 
 They allow for better defaults and sharing non
