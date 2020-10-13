@@ -28,4 +28,4 @@ function App() {
 }
 ```
 
-We can see that 
+The UseState() hook receives an initial state via an argument and then returns the variables in the array with array destructuring. The first variable in this array is the state and the second variable is the function used for updating the state.
