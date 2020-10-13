@@ -14,7 +14,7 @@ function App() {
       I am {age} Years Old <br/>
       Meters = {meters}
       <div> 
-        <button onMouseOver={handleClick}>Increase my age! </button>
+        <button onClick={handleClick}>Increase my age! </button>
         <button onClick={handleClick2}>Decrease my age! </button>
         
         <button onClick={handleclick3}>Increase my meters! </button>
